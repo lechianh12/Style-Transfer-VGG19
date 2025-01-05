@@ -23,7 +23,7 @@ The output image successfully preserves the structural content of the content im
 |------------------|-------------------------------------|
 | **Content Loss** | ![Content Loss](images/contentloss.png)  |
 | **Style Loss**   | ![Style Loss](images/styleloss.png)      |
-| **Total Loss**   | ![Total Loss](images/total_loss.png)      |
+| **Total Loss**   | ![Total Loss](images/totalloss.png)      |
 
 > **Note**: Place the loss images in a folder named `images` for correct rendering.
 
