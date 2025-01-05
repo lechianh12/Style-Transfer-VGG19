@@ -41,3 +41,4 @@ The output image successfully preserves the structural content of the content im
    ```bash
    git clone https://github.com/lechianh12/Style-Transfer-VGG19.git
    cd Style-Transfer-VGG19
+   run style_transfer.ipynb
